@@ -11,3 +11,5 @@ Product web page: [IDANN Triage site](https://zliendo.github.io/idann_home.html)
 IDANN github repositories (they are private for now): [Original capstone](https://github.com/r-hopper/MIDS-Capstone-EHR-ED-Care), 
 [Code after refactorization](https://github.com/r-hopper/idann_triage)
 
+I implemented code for data pre-preprocessing, deep learning models with an interpretation layer, visualizations and javascript API.   
+
