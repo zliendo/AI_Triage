@@ -9,7 +9,7 @@ IDANN Triage helps emergency departments to identify and prioritize patients sig
 
 Product web page: [IDANN Triage site](https://zliendo.github.io/idann_home.html)   
 IDANN github repositories:   
-* [Original capstone](https://github.com/r-hopper/MIDS-Capstone-EHR-ED-Care) (private), 
+* [Original capstone](https://github.com/r-hopper/MIDS-Capstone-EHR-ED-Care) (access by request), 
 * [IDANN repository](https://github.com/idanntriage/idann_triage) (public). The code was re-factored for easy reading and replication, keeping model's architecture and performance levels (we are creating other project to evolve the initial model). The re-factorized code replicated model performance scores reported at [IDANN Triage](https://www.ischool.berkeley.edu/projects/2018/idann-triage)
 
 I implemented code for data pre-preprocessing, deep learning models with an interpretation layer, visualizations and javascript API. I also implemented the full re-factorization for   [IDANN repository](https://github.com/idanntriage/idann_triage) 
