@@ -18,8 +18,8 @@ I implemented code for data pre-preprocessing, deep learning models with an inte
 
 |N. | Type | Task and its Notebook|  files|  
 |---|---|---|---| 
-| 1a | Pre-Processing | Transforms CDC fixed format files to CSV format. </br> Notebook:   [transform_fixed_to_csv.ipynb](notebooks/data_pre_processing/transform_fixed_to_csv.ipynb) | **Input:** data/raw/ED[year], </br> data/external/format[year].txt  </br> **Output:**  data/interim/ED[year].csv | 
-| 1b | Pre-Processing | Consolidates files from different years into one and applies exclusion criteria. </br> Notebook: [consolidating_files.ipynb](notebooks/data_pre_processing/consolidating_files.ipynb)   |  **Input:** data/interim/ED[year].csv </br> **Output:** data/processed/ED_TOTAL_2009_2009.csv , </br> data/processed/ED_TOTAL_2009_2015.csv | 
+| 1a | Pre-Processing | Transforms CDC fixed format files to CSV format. </br> Notebook:   [transform_fixed_to_csv.ipynb](https://github.com/idanntriage/idann_triage/blob/master/notebooks/data_pre_processing/transform_fixed_to_csv.ipynb) | **Input:** data/raw/ED[year], </br> data/external/format[year].txt  </br> **Output:**  data/interim/ED[year].csv | 
+| 1b | Pre-Processing | Consolidates files from different years into one and applies exclusion criteria. </br> Notebook: [consolidating_files.ipynb](https://github.com/idanntriage/idann_triage/blob/master/notebooks/data_pre_processing/consolidating_files.ipynb)   |  **Input:** data/interim/ED[year].csv </br> **Output:** data/processed/ED_TOTAL_2009_2009.csv , </br> data/processed/ED_TOTAL_2009_2015.csv | 
 | 2 | EDA | Exploratory Data Analysis of CDC data from 2009 to 2015. </br> Notebook: [CDC_eda_ESI_CO.ipynb](notebooks/eda/CDC_eda_ESI_CO.ipynb)|**Input:**  data/processed/ ED_TOTAL_2009_2015.csv | |
 
 ## Training Models   
