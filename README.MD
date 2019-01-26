@@ -2,7 +2,7 @@
 
 **May 2018**
 
-This page contains the links to the code I implemented for [IDANN Triage](https://www.ischool.berkeley.edu/projects/2018/idann-triage), which was the capstone project for my Masters on Data Science 
+This page contains links to the code I implemented for [IDANN Triage](https://www.ischool.berkeley.edu/projects/2018/idann-triage), which was the capstone project for my Masters on Data Science 
 at UC Berkeley. This project was implemented on May 2018.
 
 IDANN Triage helps emergency departments to identify and prioritize patients significantly ill by predicting critical outcomes; it utilizes deep neural networks with an attention layer for model interpretability. IDANN captured 37.4% more critical outcomes.   
